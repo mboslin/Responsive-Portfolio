@@ -227,6 +227,6 @@ input[type=submit] {
     }
 
   .wrapper {
-    width: 600px;
+    width: 100%;
   }
 }
